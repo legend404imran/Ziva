@@ -1,0 +1,42 @@
+{
+ "about": {
+  "title": "About Us",
+  "body": [
+   "Zayumi Jewels is a luxury artificial jewellery boutique offering earrings, necklace sets, rings and bangles in champagne-gold finishes, delivered across India.",
+   "[EDIT: add your brand story in data/pages.json]"
+  ]
+ },
+ "contact": {
+  "title": "Contact Us",
+  "body": [
+   "We are happy to help with orders, sizing and product questions. Message us on WhatsApp for the quickest reply.",
+   "[EDIT: add business hours or address in data/pages.json if needed]"
+  ]
+ },
+ "shipping-policy": {
+  "title": "Shipping Policy",
+  "body": [
+   "We deliver all across India. Estimated delivery: 5–7 business days.",
+   "Delivery is free on prepaid orders of ₹399 or above and on COD orders of ₹599 or above. For smaller orders, the delivery charge is confirmed with you on WhatsApp.",
+   "Cash on Delivery orders carry a separate COD charge, shown in your order review. COD charges and delivery charges are different things.",
+   "Delivery times are estimates and may vary due to courier delays."
+  ]
+ },
+ "return-policy": {
+  "title": "Return & Refund Policy",
+  "body": [
+   "[EDIT: set your return window] If your item arrives damaged or incorrect, message us on WhatsApp within [7] days of delivery with clear photos or an unboxing video.",
+   "Jewellery is a personal-use item, so worn or altered pieces may not be accepted. [EDIT to match your policy]",
+   "Approved refunds are returned to the original payment method or via UPI. [EDIT: add refund timeline]"
+  ]
+ },
+ "privacy-policy": {
+  "title": "Privacy Policy",
+  "body": [
+   "We collect only what is needed to process your order: your name, WhatsApp number, delivery address and pincode.",
+   "Your cart, wishlist and checkout details are stored in your own browser (LocalStorage) on your device. This website does not send them to any server.",
+   "When you confirm an order, your details are sent to us through WhatsApp, and WhatsApp's own privacy policy applies to that chat.",
+   "[EDIT: add a contact for privacy requests and review this text before launch]"
+  ]
+ }
+}

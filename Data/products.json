@@ -1,0 +1,133 @@
+{
+ "_doc": "Edit this list by hand. Per product: id (unique, no spaces), name, category (a new category = just use a new name), description, mrp (original price), price (selling price; discount % is calculated), images[] (first = card image), variants[{name,hex,images[]}] (optional, variant-specific photos), material, colour, care, sku, stock (<=5 shows 'Only N Left', 0 = Out of Stock + Notify Me), available (false forces Out of Stock), badge (text or empty), newArrival/bestSeller/trending/sale (true/false).",
+ "products": [
+  {
+   "id": "ZJ-E01",
+   "name": "Aurelia Pearl Drop Earrings",
+   "category": "Earrings",
+   "description": "Lustrous pearl drops on a gold-plated hook.",
+   "mrp": 899,
+   "price": 599,
+   "images": [
+    "assets/products/ZJ-E01-1.jpg",
+    "assets/products/ZJ-E01-2.jpg"
+   ],
+   "variants": [
+    {
+     "name": "Champagne Gold",
+     "hex": "#D9BD8A",
+     "images": [
+      "assets/products/ZJ-E01-gold-1.jpg",
+      "assets/products/ZJ-E01-gold-2.jpg"
+     ]
+    },
+    {
+     "name": "Rose Gold",
+     "hex": "#D9A89A",
+     "images": [
+      "assets/products/ZJ-E01-rose-1.jpg"
+     ]
+    }
+   ],
+   "material": "Gold-plated alloy, faux pearl",
+   "colour": "Champagne Gold",
+   "care": "Keep away from water, perfume and moisture. Store in the pouch provided.",
+   "sku": "ZJE01-STD",
+   "stock": 12,
+   "available": true,
+   "badge": "New",
+   "newArrival": true,
+   "bestSeller": false,
+   "trending": true,
+   "sale": false
+  },
+  {
+   "id": "ZJ-N01",
+   "name": "Regal Kundan Necklace Set",
+   "category": "Necklace Sets",
+   "description": "Statement necklace with matching earrings.",
+   "mrp": 2499,
+   "price": 1799,
+   "images": [
+    "assets/products/ZJ-N01-1.jpg",
+    "assets/products/ZJ-N01-2.jpg"
+   ],
+   "variants": [],
+   "material": "Alloy, kundan stones",
+   "colour": "Antique Gold",
+   "care": "Keep away from water, perfume and moisture. Store in the pouch provided.",
+   "sku": "ZJN01-STD",
+   "stock": 7,
+   "available": true,
+   "badge": "Best Seller",
+   "newArrival": false,
+   "bestSeller": true,
+   "trending": false,
+   "sale": true
+  },
+  {
+   "id": "ZJ-R01",
+   "name": "Solitaire Halo Ring",
+   "category": "Rings",
+   "description": "Sparkling cubic zirconia halo, adjustable band.",
+   "mrp": 799,
+   "price": 549,
+   "images": [
+    "assets/products/ZJ-R01-1.jpg",
+    "assets/products/ZJ-R01-2.jpg"
+   ],
+   "variants": [
+    {
+     "name": "Champagne Gold",
+     "hex": "#D9BD8A",
+     "images": [
+      "assets/products/ZJ-R01-gold-1.jpg",
+      "assets/products/ZJ-R01-gold-2.jpg"
+     ]
+    },
+    {
+     "name": "Rose Gold",
+     "hex": "#D9A89A",
+     "images": [
+      "assets/products/ZJ-R01-rose-1.jpg"
+     ]
+    }
+   ],
+   "material": "Brass, cubic zirconia",
+   "colour": "Gold",
+   "care": "Keep away from water, perfume and moisture. Store in the pouch provided.",
+   "sku": "ZJR01-STD",
+   "stock": 4,
+   "available": true,
+   "badge": "Sale",
+   "newArrival": false,
+   "bestSeller": false,
+   "trending": true,
+   "sale": true
+  },
+  {
+   "id": "ZJ-B01",
+   "name": "Heritage Kada Bangle Pair",
+   "category": "Bangles",
+   "description": "A pair of textured kada bangles.",
+   "mrp": 1299,
+   "price": 899,
+   "images": [
+    "assets/products/ZJ-B01-1.jpg",
+    "assets/products/ZJ-B01-2.jpg"
+   ],
+   "variants": [],
+   "material": "Gold-plated brass",
+   "colour": "Antique Gold",
+   "care": "Keep away from water, perfume and moisture. Store in the pouch provided.",
+   "sku": "ZJB01-STD",
+   "stock": 9,
+   "available": true,
+   "badge": "New",
+   "newArrival": true,
+   "bestSeller": true,
+   "trending": false,
+   "sale": false
+  }
+ ]
+}

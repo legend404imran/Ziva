@@ -1,0 +1,18 @@
+{
+ "_note": "PLACEHOLDERS: replace email, social links and COD charge. WhatsApp = digits only with country code.",
+ "brand": "Zayumi Jewels",
+ "whatsapp": "6282298431688",
+ "email": "hello@example.com",
+ "instagram": "https://instagram.com/your-handle",
+ "youtube": "https://youtube.com/@your-channel",
+ "upiId": "9019123302@fam",
+ "upiQr": "assets/icons/upi-qr.png",
+ "codCharge": 0,
+ "_codChargeNote": "PLACEHOLDER 0: set your real COD charge in rupees. Applied to every COD order.",
+ "freeDelivery": {
+  "prepaid": 399,
+  "cod": 599
+ },
+ "deliveryEstimate": "5–7 business days",
+ "invoicePrefix": "ZAYUMI"
+}
